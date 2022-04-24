@@ -128,5 +128,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+#
+.idea/
+migrations/
+_media/
+templates/
+_static/
+
 #secret
 secrets.json
